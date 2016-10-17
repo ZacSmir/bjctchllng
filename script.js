@@ -7,8 +7,8 @@ var person = {
 }
 
 function drawPerson(person){
-  document.write(src=person.representation)
-
+  document.write(person.favoriteColor)
+  
 }
 
 drawPerson(person)
