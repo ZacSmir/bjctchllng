@@ -7,7 +7,7 @@ var person = {
 }
 
 function drawPerson(person){
-
+  
 
 
 }
