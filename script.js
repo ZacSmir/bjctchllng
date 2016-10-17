@@ -9,7 +9,7 @@ var person = {
 
 function drawPerson(person){
   document.write(person.favoriteColor)
-  var stuff = document.createElement(images);
+  var stuff = document.();
   document.write(stuff)
 }
 
