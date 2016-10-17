@@ -9,8 +9,8 @@ var person = {
 
 function drawPerson(person){
   document.write(person.favoriteColor)
-  var stuff = document.getElementById("images");
-  document.write(stuff)
+  $("#images").attr("src",person.representation);
+  $("#images").attr("height",person.height);
 }
 
 drawPerson(person)
