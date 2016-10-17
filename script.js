@@ -8,5 +8,7 @@ var person = {
 
 function drawPerson(person){
   $"#personthings" = person.name
-
+  console.log($"#personthings")
 }
+
+drawPerson(person)
