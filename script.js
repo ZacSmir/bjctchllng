@@ -6,11 +6,10 @@ var person = {
   catchphrase: "Get pumped!"
 }
 
-function drawPerson(person){
-  document.getElementById("personthings").id = person.name;
+function drawPerson(person)
   
  
-  console.log($"#personthings")
+  console.log("")
 }
 
 drawPerson(person)
