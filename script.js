@@ -7,7 +7,7 @@ var person = {
 }
 
 function drawPerson(person){
-  document.write(img src=person.representation)
+  document.write( <img id="image" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMAQdMi5AFb0O80OOZke5RWKmxY7DgPCFjRXKIdPYjm-redpKDXw"/>)
 
 }
 
