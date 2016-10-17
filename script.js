@@ -10,7 +10,7 @@ var person = {
 function drawPerson(person){
   document.write(person.favoriteColor)
   $("#images").attr("src",person.representation);
-  $("#images").attr("height",person.height);
+  $("#images").css("height", "500px");
 }
 
 drawPerson(person)
