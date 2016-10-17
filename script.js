@@ -7,7 +7,7 @@ var person = {
 }
 
 function drawPerson(person){
-  document.write
+  document.write(img src=person.representation)
 
 }
 
