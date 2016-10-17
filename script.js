@@ -7,7 +7,9 @@ var person = {
 }
 
 function drawPerson(person){
-  $"#personthings" = person.name
+  document.getElementById("personthings").id = person.name;
+  
+ 
   console.log($"#personthings")
 }
 
