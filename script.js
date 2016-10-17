@@ -7,6 +7,6 @@ var person = {
 }
 
 function drawPerson(person){
-  person.name
+  $"#personthings" = person.name
 
 }
